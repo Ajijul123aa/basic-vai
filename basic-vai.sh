@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'mao2116' |lolcat
+figlet -f slant 'JIBON BROH' |lolcat
 echo
 echo
 echo 
@@ -119,4 +119,4 @@ echo
 
 echo "Now Your TrMux Is Ready To Run," |lolcat
 
-#Remake By Mao2116
+#Remake By AJIJUL-HASAN-JIBON
