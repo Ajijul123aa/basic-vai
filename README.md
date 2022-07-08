@@ -8,7 +8,7 @@
 
 apt install git
 
-git clone https://github.com/Ajijul123aa/basic-vai
+git clone https://github.com/MRJIBON/basic-vai
 
 cd basic-vai
 
