@@ -44,6 +44,16 @@ pkg install php -y
 pkg install fish -y
 
 pip install astroid 
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2 
+pkg install openssl
+pkg install openssh
+pip2 install requests
+pip2 install bs4
+pip2 install mechanize
+pkg install git
 
 pip install autopep8
 
